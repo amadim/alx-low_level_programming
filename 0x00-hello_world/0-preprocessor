@@ -1,6 +1,2 @@
 #!/bin/bash
-gcc -o c $CFILE -E
-explanation of -E below
-:wq
-#!/bin/bash
-gcc -o c $CFILE -E//explanation of -E belowhttps://studio.segger.com/index.htm?https://studio.segger.com/cc_option_preprocess.htm{ https://studio.segger.com/index.htm?https://studio.segger.com/cc_option_preprocess.htm }#!/bin/bash
+gcc -E $CFILE -o c
