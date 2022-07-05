@@ -1,1 +1,1 @@
-My C nested readme
+readme for C
