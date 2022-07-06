@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * print_alphabet_x10 - Print alpha a-z 10 times
@@ -22,4 +22,3 @@ void print_alphabet_x10(void)
 		c++;
 	}
 }
-
