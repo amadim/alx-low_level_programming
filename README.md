@@ -1,2 +1,2 @@
-readme for 
-this is my c programing readmeC
+readme for more function
+this is my c programing more function readmeC
